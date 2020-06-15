@@ -1,0 +1,12 @@
+ :root{
+	scrollbar-width: thin !important;
+	scrollbar-color: black #14141499 !important;
+}
+
+@-moz-document url(about:privatebrowsing) {
+	:root{
+		scrollbar-width: thin !important;
+		scrollbar-color: black #14141499 !important;
+	}
+} 
+
